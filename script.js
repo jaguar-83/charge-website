@@ -1,4 +1,4 @@
-const API="https://YOURBACKENDURL.onrender.com";
+const API="https://charge-website.onrender.com";
 
 async function getBalance(){
 
@@ -30,4 +30,5 @@ reference
 });
 
 alert("payment submitted");
+
 }
